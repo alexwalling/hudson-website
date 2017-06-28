@@ -17,7 +17,7 @@ class App extends Component {
 					<MyRow img1='/img/Kit-Card.jpg' img2='/img/Instagram-Card.jpg' img3='/img/Medium-Card.jpg'
 							title1='Kit' title2='Instagram' title3='Medium'
 							info1='Where I list all the cool stuff I find useful and the gear I use.' info2='View my photography portfolio and follow my day on insta stories.' info3='Where I like to write about my travels, adventures, and experiences.'
-							link1='https://twitter.com/jameshudratz' link2='https://medium.com/@james.hudson' link3='https://www.instagram.com/james.hudson.ratz/'
+							link1='https://kit.com/JamesHudson' link2='https://www.instagram.com/james.hudson.ratz/' link3='https://medium.com/@james.hudson'
 							/>
 				</Grid>
 			</div>
