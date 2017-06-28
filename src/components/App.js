@@ -10,13 +10,13 @@ class App extends Component {
 				<Grid>
 					<MyRow img1='/img/Facebook-Card.jpg' img2='/img/YouTube-Card.jpg' img3='/img/Twitter-Card.jpg' 
 							title1='Facebook' title2='Youtube' title3='Twitter'
-							info1='Connect with me on my facebook page and see what I&apos;m up to' info2='Check out my amazing Youtube where I post vlogs and cinematic videos' info3='Follow my Twitter to get quick updates from me throughout the week!'
-							link1='http://localhost' link2='https://www.youtube.com/c/JamesHudsonRatz' link3='https://twitter.com/jameshudratz'
+							info1='Follow my posts, videos and photos on Facebook.' info2='My personal youtube channel filled with my travel vlogs and films.' info3='Hear any new or updates I have first! Join in on discussion and get in my DMs.'
+							link1='https://www.facebook.com/james.hudson.ratz/' link2='https://www.youtube.com/c/JamesHudsonRatz' link3='https://twitter.com/jameshudratz'
 							/>
 					<br/>
-					<MyRow img1='/img/Twitter-Card.jpg' img2='/img/Medium-Card.jpg' img3='/img/Instagram-Card.jpg'
-							title1='Twitter' title2='Medium' title3='Instagram'
-							info1='Got another Twitter card that needs to change. Holla' info2='I write blogs on my Medium account. This is where you can find more indepth stories or thoughts I have!' info3='Always posting bangers on my Instagram!'
+					<MyRow img1='/img/Kit-Card.jpg' img2='/img/Instagram-Card.jpg' img3='/img/Medium-Card.jpg'
+							title1='Kit' title2='Instagram' title3='Medium'
+							info1='Where I list all the cool stuff I find useful and the gear I use.' info2='View my photography portfolio and follow my day on insta stories.' info3='Where I like to write about my travels, adventures, and experiences.'
 							link1='https://twitter.com/jameshudratz' link2='https://medium.com/@james.hudson' link3='https://www.instagram.com/james.hudson.ratz/'
 							/>
 				</Grid>
