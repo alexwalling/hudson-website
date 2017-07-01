@@ -20,10 +20,10 @@ class App extends Component {
 							link1='https://medium.com/@james.hudson' 										link2='https://twitter.com/jameshudratz' 													link3='https://kit.com/JamesHudson'
 							/>
 					<br/>
-					<MyRow img1='/img/Facebook-Card.jpg' 														img2='' 		img3=''
-							title1='Facebook' 																	title2='' 		title3=''
-							info1='Follow my posts, videos and photos on Facebook.' 							info2='' 		info3=''
-							link1='https://www.facebook.com/james.hudson.ratz/' 								link2='' 		link3=''
+					<MyRow img1='/img/Facebook-Card.jpg' 														img2='/img/Email-Card.jpg' 		img3=''
+							title1='Facebook' 																	title2='Email Me' 		title3=''
+							info1='Follow my posts, videos and photos on Facebook.' 							info2='My email used for business inquiries. Let&apos;s get in touch!' 		info3=''
+							link1='https://www.facebook.com/james.hudson.ratz/' 								link2='mailto:james.hudratz@gmail.com' 		link3=''
 					/>
 				</Grid>
 			</div>
