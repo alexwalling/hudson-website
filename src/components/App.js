@@ -11,7 +11,7 @@ class App extends Component {
 					<MyRow img1='/img/Welcome-Card.jpg' 										img2='/img/YouTube-Card.jpg' 												img3='/img/Instagram-Card.jpg' 
 							title1='Welcome' 													title2='Youtube' 															title3='Instagram'
 							info1='Welcome to the hub of all my work! Take a look around :)' 	info2='My personal youtube channel filled with my travel vlogs and films.' 	info3='View my photography portfolio and follow my day on insta stories.'
-							link1='mailto:james.hudratz@gmail.com' 								link2='https://www.youtube.com/c/JamesHudsonRatz' 							link3='https://www.instagram.com/james.hudson.ratz/'
+							link1=''							 								link2='https://www.youtube.com/c/JamesHudsonRatz' 							link3='https://www.instagram.com/james.hudson.ratz/'
 							/>
 					<br/>
 					<MyRow img1='/img/Medium-Card.jpg' 														img2='/img/Twitter-Card.jpg' 																img3='/img/Kit-Card.jpg' 
