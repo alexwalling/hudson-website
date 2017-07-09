@@ -5,9 +5,11 @@ I created this website using react for my friend Hudson. He was really inspired 
 npm run start
 
 ## Heroku Setup
-heroku buildpacks:set https://github.com/heroku/heroku-buildpack-static.git
-echo '{ "root": "build/" }' > static.json
-sed '/build/d' .gitignore > .gitignore.new && mv .gitignore.new .gitignore
+```
+$ heroku buildpacks:set https://github.com/heroku/heroku-buildpack-static.git
+$ echo '{ "root": "build/" }' > static.json
+$ sed '/build/d' .gitignore > .gitignore.new && mv .gitignore.new .gitignore
+```
 
 ## Deploying
 ```
